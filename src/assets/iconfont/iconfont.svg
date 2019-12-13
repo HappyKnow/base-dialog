@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="chahao" unicode="&#58903;" d="M992.20939662 741.73529505l-105.31068839 105.3042157-369.707185-369.68906145-371.94285257 371.92472905-105.31068841-105.30809932 371.94026352-371.9234345L41.05516879 1.2348074699999643l105.3106884-105.30809932 370.82437152 370.80754252 369.70718498-369.69165053 105.31068839 105.30680478-369.70459591 369.69423961 369.70718499 369.69165052z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

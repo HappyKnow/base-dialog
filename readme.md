@@ -17,6 +17,8 @@ Vue.use(BaseDialog)
 
 使用组件
 ```
+import myComponent from './myComponent';
+
   this.$openDialog({
       title:'HelloWorld',
       content:myComponent,

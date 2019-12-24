@@ -1,5 +1,5 @@
 import dialog from './BaseDialog.vue'
-import '../assets/iconfont/iconfont.css'
+import './iconfont/iconfont.css'
 dialog.install = function (Vue) {
     
 

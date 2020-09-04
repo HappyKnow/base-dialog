@@ -44,7 +44,7 @@
     "babel-regenerator-runtime": "^6.5.0",
     "circular-similarity": "^1.1.1",
     "css-loader": "^2.1.0",
-    "node-sass": "^4.10.0",
+    "node-sass": "^4.13.1",
     "progress-bar-webpack-plugin": "^1.11.0",
     "rimraf": "^2.5.4",
     "sass-loader": "^7.1.0",
